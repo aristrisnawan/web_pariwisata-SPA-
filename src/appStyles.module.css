@@ -1,0 +1,103 @@
+.brdr{
+    border-bottom: 2px solid black;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-family: "Times New Roman", Times, serif;
+}
+
+.font {
+    font-family: "Times New Roman", Times, serif;
+    color: white;
+    font-size: 150%;
+    padding-top: 7px;
+    text-align: center;
+}
+.head{
+    width: 100%;
+    height: 10%;
+    background-color: gray;
+       
+}
+.footer{
+    width: 100%;
+    height: 40%;
+    background-color: gray;
+}
+.tulisan{
+    font-family: "Times New Roman", Times, serif;
+    font-size: 25px;
+    color: white;
+    text-align: center;
+    padding-top: 9px;
+    padding-bottom: 9px;
+}
+.ukuran{
+    width: 110%;
+    height: 100%;
+    background-color:white;
+
+}
+.route{
+    padding: 10px;
+    padding-left: 10px;
+}
+.over{
+    overflow: hidden;
+}
+.info{
+    margin-left: 10px;
+    padding-top: 20px;
+    margin-right: 10px;
+    padding-bottom: 10px;
+    
+}
+.kartu{
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19),0 6px 6px rgba(0,0,0,0.23);
+}
+.kolom_kiri{
+    background-color:#535c68;
+}
+.ciamis{
+    font-family: "Times New Roman", Times, serif;
+    text-align: justify;
+    text-indent: 30px;
+
+    
+}
+.ciamis_div{
+    background-image: url('ciamis.png');
+    width: 80%;
+    height: 135vh;
+    margin-right:  10px;
+    background-repeat:no-repeat;
+    background-position: center center;
+        
+}
+
+.judul{
+    font-family: "Times New Roman", Times, serif;
+    padding-top: 10px;
+    padding-bottom: 13px;
+}
+.curug{
+    height: 200vh;
+    width:90%;
+}
+.gmbr_curug{
+    width: 50vh;
+    height: 30vh;
+}
+.div_curug{
+    width: 80%;
+    height: 100%;
+    padding-left:  10px;
+   
+}
+.huruf_curug{
+    font-family: "Times New Roman", Times, serif;
+    padding-top: 10px;
+    padding-bottom: 13px;
+    text-indent: 30px;   
+}
