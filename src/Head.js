@@ -6,7 +6,7 @@ class Head extends React.Component{
         return(
             <div>
                 <header className={styles.head}>
-                    <p className={styles.font}>Welcome To My Website</p>
+                    <p className={styles.font}>Welcome To Ciamis Pariwisata</p>
                 </header>
             </div>
         )

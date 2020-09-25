@@ -9,7 +9,7 @@ render(){
         <Nav  className="flex-column" >
                   <Link to="/" className={styles.brdr} style={{ textDecoration: 'none' }}>HOME</Link>
                   <Link to="/About" className={styles.brdr} style={{ textDecoration: 'none' }}>ABOUT</Link>
-                  <Link to="/Contact" className={styles.brdr} style={{ textDecoration: 'none' }}>CONTACT</Link>
+                  <Link to="/Contact" className={styles.brdr} style={{ textDecoration: 'none' }}>ASAL USUL</Link>
         </Nav>
     )
 }

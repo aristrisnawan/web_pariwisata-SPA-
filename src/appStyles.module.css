@@ -101,3 +101,14 @@
     padding-bottom: 13px;
     text-indent: 30px;   
 }
+.div_asal{
+    background-image: url('ciamis.png');
+    width: 80%;
+    height: 100%;
+    margin-right:  10px;
+    background-repeat:no-repeat;
+    background-position: center center;
+}
+.h2{
+    font-family: "Times New Roman", Times, serif;
+}

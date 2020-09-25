@@ -7,7 +7,7 @@ class Astana extends React.Component{
     render(){
         return(
             <div className={styles.div_curug}>
-                 <center><h2>Astana Geude Kawali</h2></center>
+                 <center><h2 className={styles.h2}>Astana Geude Kawali</h2></center>
                  <center><img src={astana} alt=""></img></center>
                  <p className={styles.huruf_curug}>
                     Situs Astana Gede Kawali terletak di Dusun Indrayasa, Kecamatan Kawali, sekitar 21 kilometer ke utara dari Kota Ciamis.

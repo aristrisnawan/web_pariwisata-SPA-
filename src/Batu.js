@@ -6,7 +6,7 @@ class Batu extends  React.Component{
     render(){
         return(
             <div className={styles.div_curug}>
-                <center><h2>Batu Ngampar</h2></center>
+                <center><h2 className={styles.h2}>Batu Ngampar</h2></center>
                 <center><img src={batu} alt=""></img></center>
                 <p className={styles.huruf_curug}>
                  Obyek Wisata Wisata Batu Ngampar di Panumbangan Ciamis Jawa Barat adalah salah satu tempat wisata yang berada

@@ -6,7 +6,7 @@ class SITU extends React.Component{
     render(){
         return(
             <div className={styles.div_curug}>
-                    <center><h2>Situ Lengkong Panjalu</h2></center>
+                    <center><h2 className={styles.h2}>Situ Lengkong Panjalu</h2></center>
                     <center><img src={situ} alt=""></img></center>
                     <p className={styles.huruf_curug}>
                         Situ lengkong Panjalu adalah suatu danau (situ dalam bahasa Sunda) yang terletak di Kecamatan Panjalu, Ciamis, Jawa Barat.

@@ -5,7 +5,7 @@ class CURUG extends React.Component{
     render(){
         return(
             <div className={styles.div_curug}>
-                <center><h2>Curug 7 Panjalu</h2></center>
+                <center><h2 className={styles.h2}>Curug 7 Panjalu</h2></center>
                 
                     <center><img src={curug} alt="" className={styles.gmbr_curug}></img></center><br/>
                 <p className={styles.huruf_curug}>

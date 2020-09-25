@@ -6,7 +6,7 @@ class Kampung extends React.Component{
     render(){
         return(
             <div className={styles.div_curug}>
-                <center><h2>Kampung Adat Kuta</h2></center>
+                <center><h2 className={styles.h2}>Kampung Adat Kuta</h2></center>
                 <center><img src={kuta} alt=""></img></center>
                 <p className={styles.huruf_curug}>
                     Kampung Kuta Tambaksari Ciamis, Jawa Barat yakni satu buah dusun adat yang hingga sekarang ini tetap teguh memegang budaya adat leluhurnya.

@@ -6,7 +6,7 @@ class Ciung extends React.Component{
     render(){
         return(
             <div className={styles.div_curug}>
-                <center><h2>Ciung Wanara</h2></center>
+                <center><h2 className={styles.h2}>Ciung Wanara</h2></center>
                 <center><img src={ciung} alt=""></img></center>
                 <p className={styles.huruf_curug}>
                 Objek wisata di tepi Jalan raya Ciamis-Banjar itu adalah Objek Wisata Ciung Wanara Situs Bojong Galuh Karangkamulyaan.
